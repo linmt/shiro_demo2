@@ -1,10 +1,10 @@
 package com.lmt.shiro_demo2.service;
 
-import com.lmt.shiro_demo2.mapper.UserMapper;
-import com.lmt.shiro_demo2.model.User;
-import org.springframework.stereotype.Service;
+        import com.lmt.shiro_demo2.mapper.UserMapper;
+        import com.lmt.shiro_demo2.model.User;
+        import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
+        import javax.annotation.Resource;
 
 @Service
 public class UserServiceImpl implements UserService {
